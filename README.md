@@ -20,7 +20,7 @@
 3. Run the tool via the command line.
 
 ### macOS:
-1. Ensure `/System/Library/PrivateFrameworks/Apple80211.framework` is accessible.
+1. Make sure `/System/Library/PrivateFrameworks/Apple80211.framework` is accessible.
 2. Download the latest release.
 3. Run the tool via the command line.
 
