@@ -60,4 +60,4 @@ Thanks to:
 
 ## License
 
-[Your License Here]
+MIT
