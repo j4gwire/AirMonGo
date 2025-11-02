@@ -13,28 +13,40 @@
 ### Windows:
 1. Make sure you have the necessary tools (`netsh`)
 2. Download or clone this repo
-3. Run the tool via the command line
+3. Build from source:
+```bash
+   go build -o AirMonGo.exe
+```
+4. Run the tool via the command line
 
 ### Linux:
 1. Install `nmcli` if not already installed
 2. Download or clone this repo
-3. Run the tool via the command line
+3. Build from source:
+```bash
+   go build -o AirMonGo
+```
+4. Run the tool via the command line
 
 ### macOS:
 1. Requires `wdutil` (macOS 14.4+) or `system_profiler` (fallback for older versions)
 2. Download or clone this repo
-3. Run the tool via the command line
+3. Build from source:
+```bash
+   go build -o AirMonGo
+```
+4. Run the tool via the command line
 
 ## Usage
 
 Run the program from the command line:
 ```bash
-AirMonGo
+./AirMonGo
 ```
 
 For help:
 ```bash
-AirMonGo --help
+./AirMonGo --help
 ```
 
 ## Compatibility
