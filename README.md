@@ -12,17 +12,17 @@
 
 ### Windows:
 1. Make sure you have the necessary tools (`netsh`)
-2. Download the latest release
+2. Download or clone this repo
 3. Run the tool via the command line
 
 ### Linux:
 1. Install `nmcli` if not already installed
-2. Download the latest release
+2. Download or clone this repo
 3. Run the tool via the command line
 
 ### macOS:
 1. Requires `wdutil` (macOS 14.4+) or `system_profiler` (fallback for older versions)
-2. Download the latest release
+2. Download or clone this repo
 3. Run the tool via the command line
 
 ## Usage
